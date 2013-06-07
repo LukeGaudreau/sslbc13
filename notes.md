@@ -7,9 +7,17 @@ Getting hooked on Mendeley & Zotero
 *Luke Gaudreau*
 
 ### Voice mail help with Zotero
-One fine day this past fall, I came back from lunch to find the VoiceMail indicator on phone lit up. On the other end was the voice a of a desparate student. She had a paper due tomorrow and she was having trouble getting all of her citations working through zotero. 
+- one day last fall
+- i came back from lunch
+- to find my voice mail lit up
+- On the other end was desparate student
+- She had a paper due tomorrow 
+- and she was having trouble getting all of her citations to work in zotero. 
 
-I asked her to come in that afternoon, and I set down to help her. We started by looking at the citations she had collected in Zotero. Her Zotero collection looked something like this:
+- I asked her to come in that afternoon, 
+- and I set down to help her. 
+- We started by looking at the citations she had collected in Zotero. 
+- it looked something like this:
 
 ### Look at citations together
 
