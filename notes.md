@@ -31,19 +31,28 @@ How many of you have seen a bibliography like this?
 - but, you have to promise to come back next week to learn how to improve your research.
 
 ### Failed to go beyond Shiny and new
-At this point I was starting realize I had failed. I had been teaching zotero workshops for a couple of years, and on the surface, those workshops were a success. Thanks to the allure of 
-- shiny and new
-- timesaving technology
-Zotero workshops were are most heavily attended, and people tended to leave the sessions quite happy. 
+- At this point I was starting realize I had failed.
+- I had been teaching zotero workshops for a couple of years, 
+- and on the surface, those workshops were a success. Thanks to the allure of 
+- shiny and new, timesaving technology
+- Zotero workshops were our most heavily attended
+- and people tended to leave the sessions quite happy. 
 
 ### Focused too much on the software
-The problem, though, was that I was treating these workshops as a software tutorial, distinct from our more research focused classes. The sessions 
-- laboriously guided patrons through the installation process
+- The problem, though,
+- was that I was treating these workshops as a software tutorial, 
+- distinct from our more research focused classes. 
+- we laboriously guided patrons through the installation process
 - touring the interface
 - going over features and benefits 
 - and demonstrating basic usage.
 
-For a lot of people, this workshop was the only one they ever attended. They came in, learned how to automate writing a bibliography and left. But contrary to what many students would tell you, formatting a bibliography isn't the most difficult part of a literature review.
+- For a lot of people, 
+- this workshop was the only one they ever attended. 
+- They came in,
+- learned how to automate writing a bibliography and left. 
+- But contrary to what many students would tell you, 
+- formatting a bibliography isn't the most difficult part of a literature review.
 
 ### Screencasts were popular, but not with our students
 I even created some screencasts, and over the time they became quite popular. 
@@ -51,11 +60,9 @@ I even created some screencasts, and over the time they became quite popular.
 - on youtube, and on the zotero wiki 
 
 ### Zotero as gateway drug
-We wanted to reach the students who didn't even know that Zotero could help them. 
-
-We didn't want to show them Zotero at the end of the research process as a way to save a few minutes. 
-
-Zotero had to become our gateway drug, opening up a larger world of library possiblities to our students.
+- We wanted to reach the students who didn't even know that Zotero could help them. 
+- We didn't want to show them Zotero at the end of the research process as a way to save a few minutes. 
+- Zotero had to become our gateway drug, opening up a larger world of library possiblities to our students.
 
 ### Introduction
 - My name is Luke Gaudreau, and 
