@@ -26,7 +26,9 @@ How many of you have seen a bibliography like this?
 - CNN
 - Random Blogs
 - How Stuff Works!?
- I looked at her and said, I can help you format your bibliography, but, you have to promise to come back next week to learn how to improve your research.
+- I looked at her and said, 
+- I can help you format your bibliography, 
+- but, you have to promise to come back next week to learn how to improve your research.
 
 ### Failed to go beyond Shiny and new
 At this point I was starting realize I had failed. I had been teaching zotero workshops for a couple of years, and on the surface, those workshops were a success. Thanks to the allure of 
