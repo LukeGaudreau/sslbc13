@@ -64,52 +64,70 @@ Instead of boring our students to death with a list of facts, pointers to variou
 
 ### Sample assignment, start with google scholar
 
-We showed them how begin the research process with a sample assignment. 
-- see if your professor has written anything on the topic for the assignemt
+We showed them how begin the research process with a simple assignment.
+- write a basic policy analysis on carbon tax policy
+- and with a joke: Harvard professors love to assign their own papers 
+- so let's see if your professor has written anything on the topic
   - use google scholar and the catalog to find them
+  - make note of how frequently the paper is cited
 
 ### Look at the citations in the paper
-- check the citations in their book or paper
+- and then, we showed them how to check the citations in their paper
+- we talked about following the path of the scholars who've come before you, building on their work
 
 ### Find the full text
-  - use citation linker (sfx) to find the full text of some of those citations
-  - start to look for share terminology, connections
+  - then we showed them how to find the full text of those citations, using our citation linker tool
 - and then since we're a public policy school, we have to reach out beyond the academic literature
 
 ### Search .gov
 - so we show them some google MAGIC
-- many students like to think of themselves as expert googlers. 
+- a lot of students like to think of themselves as expert googlers. 
 - they're mostly wrong. and most of them had never seen most of the magic we were showing off.
-- demonstrate site: specific searching
+- we showed them how to use site specific searching to find content on govenrment websites
 
 ### Search .edu
-- explain tlds and why you should try for a healthy mix of .com, .gov, .edu, .org
+- we explained top level domains and why you should try for a healthy mix of .com, .gov, .edu, .org
 
 ### Search .cn.gov
-- demonstrate country specific and language specific search techniques
-  - pause to let students furiously write down site: syntax
-  - show them advanced search
-  - pepper in information about Google's secret use of Boolean ANDs and truncation everywhere
+- we even demonstrate country specific and language specific search techniques
+  - as students furiously write down site: syntax
+  - we show them advanced search and explain that they can use this to learn the syntax over time
+  - we even peppered in information about Google's secret use of Boolean ANDs and truncation everywhere
+  - what we were doing was showing them the magic in something they used every day
 
 ### Saving to Zotero
-All the while, everything is being saved into Zotero. You don't need to give alot of explanation up front, just say what it is, wave your hands, and say we'll come back to it later.
+All the while, everything is being saved into Zotero. 
+- You don't need to give alot of explanation up front, just say what it is, wave your hands, and say we'll come back to it later.
 
 ### Creating a bibliography
-Then at the end of the orientation, switch to a half complete document. Demonstrate adding a citatation and creating a bibliogrpahy and BOOM
+Then at the end of the orientation, we switched to a half complete paper. And we demonstrated adding a citatation and creating the bibliography AND
 
 ### BOOM
-Oh, and by the way, please sign up for a Zotero session. Here are the dates:
+Then we asked them to sign up for a workshop
 
 ### But, did it work?
-Boy did it ever work. The first session? Our instruction room is pretty small. Holds 10 comfortably, 15 uncomfortably. I had to turn people away. Allowed them to sign up for an alternate session. 22 people signed up for an alternate session so...
+Boy did it ever work. The first session? Our instruction room is pretty small. Holds 10 comfortably, 15 uncomfortably. I had to turn people away. Allowed them to sign up for an alternate session. 
+22 people signed up for an alternate session so...
 15 + 22 = 37 People came to the first session
 average ~10 per sesssion, 1-2 sessions per week for the next 6 weeks
 
 ### New problems
 
-With so many people coming to our Zotero sessions, we had a new problem. With such a diverse student body, people were coming to us with a broad range of technical aptitude. Some students came to the workshops with Zotero installed, and already in use, and had questions for us about using it on their iPad or adding citations from more obscure sources. Other students came to the sesssion and struggled with installation. Both groups detracted from our ability to use a more holistic approach in teaching. I was spending as much as half of each hour long session, troubleshooting and answering technical questions.
+With so many people coming to our Zotero sessions, we had a new problem. With such a diverse student body, people were coming to us with a broad range of technical aptitude. 
 
-So we adapted. I started asking people to install Zotero ahead of time, and began showing up 1/2 hour before the workshop to help anyone who had questions. Maintaining screencasts was getting more difficult over time, as Zotero gets updated frequently. I decided to swap it out for web pages with screenshots. That way, if something changed, I could swap it out quickly without having to edit, render and upload new videos each time. So now, I could point people to our website, and offer help before the workshop as needed.
+Some students came to the workshops with Zotero installed, and already in use, and had questions for us about using it on their iPad or adding citations from more obscure sources. 
+
+Other students came to the sesssion and struggled with installation.
+
+Both groups detracted from our ability to use a more holistic approach in teaching. I was spending as much as half of each hour long session, troubleshooting and answering technical questions.
+
+So we adapted. I started asking people to install Zotero ahead of time, and began showing up 1/2 hour before the workshop to help anyone who had questions. 
+
+Maintaining screencasts was getting more difficult over time, as Zotero gets updated frequently. I swapped them out for web pages with screenshots. 
+
+Now, if something changed, I could swap it out quickly without having to edit, render and upload new videos each time.  I could point people to our website, and offer help before the workshop as needed.
+
+Students would come in before, and I could help them get up and running or answer advanced questions, without taking time away from the group.
 
 Now, I could focus the sessions more fully on Zotero and the research process.
 
